@@ -41,11 +41,8 @@ I am working as Associate Consultant at Infosys [Infosys](https://www.infosys.co
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Contributed to [#26](https://github.com/mslifelineway/restaurant-web) in [prismaneui/prismane](https://github.com/mslifelineway)
-2. 🗣 Commented on [#23](https://github.com/prismaneui/prismane/issues/23#issuecomment-1637161308) in [prismaneui/prismane](https://github.com/prismaneui/prismane)
-3. 🗣 Commented on [#20](https://github.com/prismaneui/prismane/issues/20#issuecomment-1637137008) in [prismaneui/prismane](https://github.com/prismaneui/prismane)
-4. 🔒 Closed issue [#21](https://github.com/prismaneui/prismane/issues/21) in [prismaneui/prismane](https://github.com/prismaneui/prismane)
-5. 🗣 Commented on [#20](https://github.com/prismaneui/prismane/issues/20#issuecomment-1637136889) in [prismaneui/prismane](https://github.com/prismaneui/prismane)
+1. 💪 Contributed to (https://github.com/mslifelineway/restaurant-web) in [mslifelineway/mslifelineway/restaurant-web](https://github.com/mslifelineway)
+2. 📭 Created [#23](https://github.com/mslifelineway/formik-in-deep) in [mslifelineway/formik-in-deep](https://github.com/mslifelineway/formik-in-deep)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
