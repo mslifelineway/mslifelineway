@@ -13,7 +13,7 @@ I am working as Associate Consultant at Infosys [Infosys](https://www.infosys.co
 - [Linkedin](https://www.linkedin.com/in/mukesh-kumar-4597a0146)
 - [Email](mailto:mukeshms40003@gmail.com)
  
- <a href="https://app.daily.dev/kavinvalli"><img align="right" src="https://scontent.fbom19-1.fna.fbcdn.net/v/t39.30808-6/305970607_1527390131013014_8962333708284486081_n.jpg?stp=cp6_dst-jpg&_nc_cat=102&ccb=1-7&_nc_sid=174925&_nc_ohc=6mJTafNCUg8AX8DylNb&_nc_ht=scontent.fbom19-1.fna&oh=00_AfBIcI2LoQ_FAWqlGPWypS0RzTAym7-R-2VM63vaZ-lkIg&oe=64E4B6C4" width="256" alt="Mukesh Kumar's Fb Image"/></a>
+ <a href="https://app.daily.dev/kavinvalli"><img align="right" src="https://www.facebook.com/photo.php?fbid=1571023363316357&set=pb.100012261246212.-2207520000&type=3" width="256" alt="Mukesh Kumar's Fb Image"/></a>
 
 ## Languages and Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
