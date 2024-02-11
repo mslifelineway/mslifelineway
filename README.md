@@ -2,10 +2,9 @@
 ### Hi There! Welcome to my Github Page :wave:
 
 ---
+My name is Mukesh Kumar.
 
-My name is Mukesh Kumar and I'm from Bihar.
-
-I am working as Associate Consultant at Infosys [Infosys](https://www.infosys.com/). I am a software developer having over 2.8 yrs of experience in MERN stack technlogies.
+Specialization in creating the user interface and implementing the visual elements that users interact with in a web application or website. Collaborate with cross-functional teams, including designers and backend developers, to deliver high-quality, responsive, and visually appealing user interfaces. Experience in writing clean, maintainable, and efficient code using modern frontend technologies such as HTML, CSS, JavaScript, and React. Participate in code reviews to maintain code quality and ensure adherence to coding standards.
 
 ---
 ## Connect with me
